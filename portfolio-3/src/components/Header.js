@@ -11,7 +11,7 @@ const Header = () => (
         <img src={avatar1} alt="" />
       </a>
       <h1>
-        Kangur Photography
+        Kangur Photograph
       </h1>
     </div>
     <Footer />
